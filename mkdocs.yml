@@ -1,0 +1,32 @@
+site_name: CUDA Programming Guide 中文版（非官方）
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.expand
+    - navigation.tracking
+    - toc.integrate
+
+docs_dir: docs
+site_dir: site
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - 首页: index.md
+  - 项目说明: README.md
+  - 总目录（仓库版）: BOOK.md
+  - 术语表: TERMINOLOGY.md
+  - 版本: VERSION.md
+  - 免责声明: DISCLAIMER.md
+  - 第 1 章 Introduction to CUDA: 01-introduction-to-cuda/README.md
+  - 第 2 章 Programming GPUs in CUDA: 02-programming-gpus-in-cuda/README.md
+  - 第 3 章 Advanced CUDA: 03-advanced-cuda/README.md
+  - 第 4 章 CUDA Features: 04-cuda-features/README.md
+  - 第 5 章 Technical Appendices: 05-technical-appendices/README.md
+  - 第 6 章 Notices: 06-notices/README.md
+

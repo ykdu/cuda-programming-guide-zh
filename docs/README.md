@@ -1,4 +1,4 @@
-# CUDA Programming Guide 13.1 中文翻译（非官方）
+# CUDA Programming Guide 中文翻译（非官方）
 
 本仓库是 NVIDIA 官方文档 **CUDA C++ Programming Guide** 的非官方中文翻译与整理工程，目标是提供一个**结构化、可维护、可引用**的中文版本（以 GitHub 形式长期迭代）。
 
