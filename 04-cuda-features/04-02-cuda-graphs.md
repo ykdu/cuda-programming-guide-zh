@@ -27,8 +27,6 @@ CUDA Graphs 提供了 CUDA 中另一种提交工作的模型。一个 graph 是�
 - memory node
 - 子图：用于执行一个单独的嵌套图（如下面的图所示）。
 
-粒度或对齐要求导致的，这些要求与具体 GPU 架构有关。 
-
 ![](https://docs.nvidia.com/cuda/cuda-programming-guide/_images/child-graph.png)
 
 *Figure 21*  
