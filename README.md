@@ -26,9 +26,9 @@
 > - ⏳ 计划中：仅有结构，占位尚未翻译
 
 ### 第 1 章 Introduction to CUDA
-- ⏳ 1.1 Introduction
-- ⏳ 1.2 Programming Model
-- ⏳ 1.3 The CUDA Platform
+- ✅ 1.1 Introduction
+- ✅ 1.2 Programming Model
+- ✅ 1.3 The CUDA Platform
 
 ### 第 2 章 Programming GPUs in CUDA
 - ⏳ 2.1 Intro to CUDA C++
