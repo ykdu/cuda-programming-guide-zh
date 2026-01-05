@@ -19,13 +19,6 @@ CUDA 应用会在 GPU 上执行部分代码，但应用总是从 CPU 上开始�
 
 ### 1.2.2. GPU Hardware Model
 
-**原文**
- Like any programming model, CUDA relies on a conceptual model of the underlying hardware. For the purposes of CUDA programming, the GPU can be considered to be a collection of Streaming Multiprocessors (SMs) which are organized into groups called Graphics Processing Clusters (GPCs). Each SM contains a local register file, a unified data cache, and a number of functional units that perform computations. The unified data cache provides the physical resources for shared memory and L1 cache.
- The allocation of the unified data cache to L1 and shared memory can be configured at runtime. The sizes of different types of memory and the number of functional units within an SM can vary across GPU architectures.
- Note
- The actual hardware layout of a GPU or the way it physically carries out the execution of the programming model may vary. These differences do not affect correctness of software written using the CUDA programming model.
-
-**翻译**
 和任何 programming model 一样，CUDA 依赖对底层硬件的一个概念性模型。就 CUDA 编程而言，可以把 GPU 看成由多个 Streaming Multiprocessors（SMs）组成的集合，这些 SMs 组织成称为 Graphics Processing Clusters（GPCs）的组。**每个 SM 包含一个本地的 register file、一个 unified data cache 以及一些执行计算的功能单元。unified data cache 提供了 shared memory 和 L1 cache 的物理资源。unified data cache 在 L1 和 shared memory 之间的分配可以在运行时配置。**不同类型内存的大小以及 SM 中功能单元的数量会随着 GPU 架构而变化。
 
 > 注意
