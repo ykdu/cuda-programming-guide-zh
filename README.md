@@ -31,15 +31,15 @@
 - ✅ 1.3 The CUDA Platform
 
 ### 第 2 章 Programming GPUs in CUDA
-- ⏳ 2.1 Intro to CUDA C++
-- ⏳ 2.2 Writing CUDA SIMT Kernels
-- ⏳ 2.3 Asynchronous Execution
-- ⏳ 2.4 Unified and System Memory
-- ⏳ 2.5 NVCC: The NVIDIA CUDA Compiler
+- ✅ 2.1 Intro to CUDA C++
+- ✅ 2.2 Writing CUDA SIMT Kernels
+- ✅ 2.3 Asynchronous Execution
+- ✅ 2.4 Unified and System Memory
+- ✅ 2.5 NVCC: The NVIDIA CUDA Compiler
 
 ### 第 3 章 Advanced CUDA
-- ⏳ 3.1 Advanced CUDA APIs and Features
-- ⏳ 3.2 Advanced Kernel Programming
+- ✅ 3.1 Advanced CUDA APIs and Features
+- ✅ 3.2 Advanced Kernel Programming
 - ⏳ 3.3 The CUDA Driver API
 - ⏳ 3.4 Programming Systems with Multiple GPUs
 - ⏳ 3.5 A Tour of CUDA Features
