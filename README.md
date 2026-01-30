@@ -46,25 +46,25 @@
 
 ### 第 4 章 CUDA Features
 - ⏳ 4.1 Unified Memory
-- ✅ 4.2 CUDA Graphs
-- ⏳ 4.3 Stream-Ordered Memory Allocator
-- ⏳ 4.4 Cooperative Groups
-- ⏳ 4.5 Programmatic Dependent Launch and Synchronization
+- 🚧 4.2 CUDA Graphs
+- ✅ 4.3 Stream-Ordered Memory Allocator
+- ✅ 4.4 Cooperative Groups
+- 🚧 4.5 Programmatic Dependent Launch and Synchronization
 - ✅ 4.6 Green Contexts
-- ⏳ 4.7 Lazy Loading
-- ⏳ 4.8 Error Log Management
+- ✅ 4.7 Lazy Loading
+- ✅ 4.8 Error Log Management
 - ⏳ 4.9 Asynchronous Barriers
 - ⏳ 4.10 Pipelines
 - ⏳ 4.11 Asynchronous Data Copies
 - ⏳ 4.12 Work Stealing with Cluster Launch Control
-- ⏳ 4.13 L2 Cache Control
-- ⏳ 4.14 Memory Synchronization Domains
-- ⏳ 4.15 Interprocess Communication
+- 🚧 4.13 L2 Cache Control
+- 🚧  4.14 Memory Synchronization Domains
+- ✅ 4.15 Interprocess Communication
 - ✅ 4.16 Virtual Memory Management
-- ⏳ 4.17 Extended GPU Memory
+- 🚧 4.17 Extended GPU Memory
 - ⏳ 4.18 CUDA Dynamic Parallelism
 - ⏳ 4.19 CUDA Interoperability with APIs
-- ⏳ 4.20 Driver Entry Point Access
+- 🚧 4.20 Driver Entry Point Access
 
 ### 第 5 章 Technical Appendices
 - ⏳ 5.1 Compute Capabilities
