@@ -45,7 +45,7 @@
 - ✅ 3.5 A Tour of CUDA Features
 
 ### 第 4 章 CUDA Features
-- ⏳ 4.1 Unified Memory
+- ✅ 4.1 Unified Memory
 - 🚧 4.2 CUDA Graphs
 - ✅ 4.3 Stream-Ordered Memory Allocator
 - ✅ 4.4 Cooperative Groups
